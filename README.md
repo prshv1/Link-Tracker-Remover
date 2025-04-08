@@ -18,7 +18,7 @@
 
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/prshv1/One-click-url-shortner
+   git clone https://github.com/prshv1/Link-Tracker-Remover
 2. Open Google Chrome and go to:
      ```bash
     chrome://extensions
