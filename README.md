@@ -44,7 +44,7 @@ https://example.com/page
 
 ---
 
-## 📱 Follow & Support hi
+## 📱 Follow & Support
 
 - 📸 [Follow me on Instagram](https://instagram.com/prshv.2)
 - 💸 UPI ID for donations: `parshvagala@fam`
